@@ -10,7 +10,7 @@
         <VersionInfo resourceName="Extract-OAuth-Params" version="SHA-512:cee7bee63a77077756c16d237014b05dbd93af3b1f0ad519e73d5f5f739288aa0ea8407b0640efeb1a7728ce305ef3b3b18140c739f7cd78600f27eaceaffaf3"/>
         <VersionInfo resourceName="Extract-Refresh-Params" version="SHA-512:aab8ed226b7f2f8b0fea061faeb247eed5d9d1e6479870fd7119f5107a7bf2a24da90fa6223ccd0c412afb8fc9315d92c5b1edb6725555b6c5605d59aaa54ada"/>
         <VersionInfo resourceName="Extract-Revoke-Params" version="SHA-512:78776e8e83c78763bc1c8ee345d4a91c477ae20e82ee7c2600ed7070885999b256565aba3f4d73cea56dc79f43ec4397cca67f442b3e2636cebd8921f9dfb63f"/>
-        <VersionInfo resourceName="Generate-Access-Token" version="SHA-512:f9aa0d5b5174d541ab3ed670fff8713b357efd0f7df5813ece4df626aff0969c8dd4dd676aea50b62da08da4f7245862469d7cb90f6d59bac8a6430ca612ca75"/>
+        <VersionInfo resourceName="Generate-Access-Token" version="SHA-512:074a17085165be3ed353ea5b8ce0b28b140076f751661719f6da89ce6c2c3bd3fb7131dcd5df7457061c5c14f34b8447d9b3817bb2f12c24fb1637b319cf0a2b"/>
         <VersionInfo resourceName="Generate-JWK" version="SHA-512:d47d43441a96d9f7d81e65f81cd1e84202a2b6240b489825ad7ffa16002bf29bd45102c79888e007134757116ed4c713e95d463f521971560eca45f006179cd7"/>
         <VersionInfo resourceName="Generate-VerifyKey-Token" version="SHA-512:3f190f4a3dc72cd30282cc22fa41d7d71bb8c0f7a0a5b5233c7109cbc09eb33a3a8ecd6037d3f27daabe87ca3f68ef1fe6f16d00946a07d7cc6c9e555851064b"/>
         <VersionInfo resourceName="Get-Private-Key" version="SHA-512:38c8d4b3f41041dfb67d807e7e5c316ea66228d1ab547eb2df2c81886e1bad705b3b836222a6a42f4a076cae1bad71e8aaade6d369adb76c401caa5be2a5b561"/>
@@ -35,7 +35,7 @@
         <VersionInfo resourceName="jsc://jsrsasign-all-min.js" version="SHA-512:62986d1a086c2ac2c9c20f8ee27919a57430552246098534f10468faa6b85401dbfa4b35ec7bb9404d37d695f5778331e71a1909268240a334151fd167c3f06a"/>
         <VersionInfo resourceName="jsc://jwt-initialization.js" version="SHA-512:c9b1af8f846d11cf42d454643c21a937489888c8fcbf1337429672500f0ce6d26397e3697342773616706feee927521ca5eededf1fb0269dd1da253645087656"/>
         <VersionInfo resourceName="jsc://send-jwk-response.js" version="SHA-512:81ab460fbf7c400cbb346c3d79cc1bcef116f2c21177c009e226c9a259ff73f9414cf0c838a43bd8febf745a3a1d1f6e049eea45f21bbff1df5422792245cabc"/>
-        <VersionInfo resourceName="jsc://set-jwt-variables.js" version="SHA-512:74603181a9ccf142e22b8c71a2488e0b86dfa02684f37fa09979efc7d43d0159ccbe3581af8af44a3e8e0d32c22c874beafe6145523161fc50f2827198400dfd"/>
+        <VersionInfo resourceName="jsc://set-jwt-variables.js" version="SHA-512:5aa31b0dfacddcaac2e17c61f7e658743b16577b906879dfa67529c2fd9fd999dfb7e2b79f10b93ab753e3db0015426cfb6ef7d31ca021d3a654515071d3dd5a"/>
         <VersionInfo resourceName="jsc://set-response.js" version="SHA-512:cd9708e2be0ca8747c51d7c8d72695c277231861be78c6f279f90bd7b8deafa2cf7285aa1680650b5c3154163a572662613a3c6a5ee2486e30a2bb63ea862dcd"/>
     </Resources>
     <SharedFlows/>

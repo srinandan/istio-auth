@@ -33,10 +33,11 @@
 
  var scope = context.getVariable("oauthv2accesstoken.AccessTokenRequest.scope");
  if (scope) {
-     context.setVariable("scope",JSON.stringify(scope.split(" ")));
+     var scopearr = scope.split(" ");
+     context.setVariable("scope",scopearr.join());
  }
 
- context.setVariable("apiProductList", JSON.stringify(apiProductsList));
+ context.setVariable("apiProductList", apiProductsList.join());
  context.setVariable("iss", context.getVariable("proxyProto") + "://" + context.getVariable("proxyHost") + context.getVariable("proxy.basepath")+context.getVariable("proxy.pathsuffix"));
  context.setVariable("jti", 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
                 var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);

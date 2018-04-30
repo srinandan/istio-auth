@@ -6,9 +6,9 @@
     <CreatedBy>defaultUser</CreatedBy>
     <Description>istio-auth</Description>
     <DisplayName>istio-auth</DisplayName>
-    <LastModifiedAt>1524450273788</LastModifiedAt>
+    <LastModifiedAt>1525127429243</LastModifiedAt>
     <LastModifiedBy>defaultUser</LastModifiedBy>
-    <ManifestVersion>SHA-512:77ce0de2927c713bbe92a4244b0b8d606bd51b21c1fc8eac82cd3dc69bdf1cf027eab369af713230828a424d7482f018ce05cbeb80fe1f4341dd4eae8333f951</ManifestVersion>
+    <ManifestVersion>SHA-512:acd451ff5ef9bd54ebebe78e34e80259e5fa69e00d4aaf19a9785db871494c613ad31449b86878e4539f9c3e0afaf1f75b8fefce7934659bf5c146cecbe4e8f7</ManifestVersion>
     <Policies>
         <Policy>Access-App-Info-2</Policy>
         <Policy>Access-App-Info</Policy>
